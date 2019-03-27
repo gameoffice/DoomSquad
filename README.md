@@ -1,5 +1,3 @@
-<h1>Doom Squad</h1>
-
 <h1>Privacy Policy</h1>
 
 
