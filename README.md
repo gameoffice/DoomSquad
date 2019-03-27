@@ -4,7 +4,7 @@
 <p>Effective date: March 26, 2019</p>
 
 
-<p>Doom Squad Site ("us", "we", or "our") operates the https://gameoffice.github.io/doomsquad/ website and the  mobile application (the "Service").</p>
+<p>Doom Squad Site ("us", "we", or "our") operates the https://gameoffice.github.io/DoomSquad/ website and the  mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Doom Squad Site is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
 
@@ -102,5 +102,5 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: zhelnin_andrei@mail.ru</li>
-        <li>By visiting this page on our website: https://gameoffice.github.io/doomsquad/</li>
+        <li>By visiting this page on our website: https://gameoffice.github.io/DoomSquad/</li>
 </ul>
